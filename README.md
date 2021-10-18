@@ -5,4 +5,4 @@ This program will take two user inputs, their name and their favorite food and w
 Group Member Names:
 Matthew Smith, 
 Julianne Kruse,
-Shiv Patel
+Shiv Patel.
