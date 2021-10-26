@@ -17,6 +17,6 @@
 *We do not have any sort of forum or discord set up, so if you would like to ask a question or report a bug, please include a comment with your pull request. Thanks!
 
 ## Maintenance Team and Developers:
-Matthew Smith
-Julianne Kruse
-Shiv Patel
+*Matthew Smith
+*Julianne Kruse
+*Shiv Patel
